@@ -1,5 +1,5 @@
 // Store your OpenAI API key
-const apiKey = 'your-api-key';
+const apiKey = 'iuJ2L9DzHRzFfqZVKmALlR1eSrEh4Q8gno8Mutl7';
 
 async function main() {
   // Send a POST request to the OpenAI API
